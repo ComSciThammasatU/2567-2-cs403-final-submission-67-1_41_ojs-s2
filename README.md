@@ -25,7 +25,9 @@
 # Topic 2 ตั้งค่าโปรแกรมที่ Download
 1. XAMPP : กดคลิก config ของ Apache จากนั้นทำการค้นหา Extention=zip แล้วทำการลบ ; หน้าคำว่า Extention=zip ออก แล้วกำบันทึกไฟล์
 2. Dowload Extention ใน VScode ดังนี้
-   *  _Laravel Extention Pack_
+   *  _Laravel Blade Snippets_
+   *  _Laravel Blade formatter_
+   *  _Laravel Extension Pack_
    *  _Composer_
    *  _HTML CSS Support_
    *  _Prettier_
